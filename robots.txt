@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 User-agent: *
 Disallow:
 
+=======
+User-agent: *
+Disallow:
+
+>>>>>>> 6f6dfaa832c57ce4ed53bbbf128ae40239d88ff7
 Sitemap: https://krusco.pk/sitemap.xml
