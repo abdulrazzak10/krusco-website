@@ -1,0 +1,16 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="loc-pin" x1="40" y1="20" x2="40" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F87171"/>
+      <stop offset="1" stop-color="#F59E42"/>
+    </linearGradient>
+    <linearGradient id="loc-map" x1="40" y1="60" x2="40" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+  <path d="M40 60c-10-12-16-20-16-28a16 16 0 1132 0c0 8-6 16-16 28z" fill="url(#loc-pin)" stroke="#EA580C" stroke-width="3"/>
+  <circle cx="40" cy="32" r="5" fill="#FFF" stroke="#EA580C" stroke-width="2"/>
+  <path d="M60 40c4 0 8 4 8 8 0 4-3 8-8 14" stroke="url(#loc-map)" stroke-width="2" stroke-dasharray="2 3"/>
+  <path d="M20 40c-4 0-8 4-8 8 0 4 3 8 8 14" stroke="url(#loc-map)" stroke-width="2" stroke-dasharray="2 3"/>
+</svg> 

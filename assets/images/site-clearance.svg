@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="360" fill="#F6F8F7"/>
+  <!-- Background construction silhouettes -->
+  <g opacity="0.13">
+    <rect x="40" y="220" width="100" height="60" rx="8" fill="#1A2A40"/>
+    <rect x="360" y="230" width="70" height="40" rx="8" fill="#1A2A40"/>
+    <rect x="400" y="80" width="30" height="60" rx="6" fill="#1A2A40"/>
+    <rect x="60" y="80" width="40" height="80" rx="6" fill="#1A2A40"/>
+  </g>
+  <!-- Crane -->
+  <g>
+    <rect x="320" y="120" width="12" height="80" rx="4" fill="#B0B8C1"/>
+    <rect x="326" y="120" width="40" height="8" rx="2" fill="#D4AF37"/>
+    <rect x="360" y="128" width="6" height="40" rx="2" fill="#B0B8C1"/>
+    <rect x="362" y="168" width="20" height="6" rx="2" fill="#D4AF37"/>
+    <rect x="380" y="170" width="8" height="20" rx="2" fill="#B0B8C1"/>
+  </g>
+  <!-- Workers -->
+  <g>
+    <ellipse cx="120" cy="240" rx="18" ry="28" fill="#1B4D3E"/>
+    <ellipse cx="180" cy="240" rx="18" ry="28" fill="#1B4D3E"/>
+    <rect x="110" y="220" width="20" height="30" rx="6" fill="#D4AF37"/>
+    <rect x="170" y="220" width="20" height="30" rx="6" fill="#D4AF37"/>
+    <rect x="115" y="250" width="10" height="18" rx="3" fill="#3A4A59"/>
+    <rect x="175" y="250" width="10" height="18" rx="3" fill="#3A4A59"/>
+    <!-- Helmets -->
+    <ellipse cx="120" cy="220" rx="10" ry="6" fill="#B0B8C1"/>
+    <ellipse cx="180" cy="220" rx="10" ry="6" fill="#B0B8C1"/>
+  </g>
+  <!-- Scrap being loaded -->
+  <g>
+    <rect x="220" y="250" width="40" height="16" rx="4" fill="#7A8A99"/>
+    <rect x="265" y="255" width="18" height="10" rx="2" fill="#B0B8C1"/>
+    <rect x="290" y="252" width="12" height="12" rx="2" fill="#7A8A99"/>
+  </g>
+  <!-- Eco-symbols -->
+  <g>
+    <!-- Recycling icon -->
+    <g transform="translate(60,60) scale(1.2)">
+      <path d="M12 2L15 8H9L12 2Z" fill="#1B4D3E"/>
+      <path d="M2 12L8 15V9L2 12Z" fill="#1B4D3E"/>
+      <path d="M22 12L16 15V9L22 12Z" fill="#1B4D3E"/>
+    </g>
+    <!-- Leaf -->
+    <ellipse cx="440" cy="80" rx="8" ry="18" fill="#1B4D3E"/>
+  </g>
+  <!-- Soft shadow -->
+  <ellipse cx="240" cy="270" rx="120" ry="18" fill="#B0B8C1" opacity="0.18"/>
+</svg> 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="360" fill="#F6F8F7"/>
+  <!-- Background factory silhouettes and gears -->
+  <g opacity="0.12">
+    <rect x="40" y="220" width="100" height="60" rx="8" fill="#1A2A40"/>
+    <circle cx="90" cy="250" r="16" fill="#1A2A40"/>
+    <rect x="360" y="230" width="70" height="40" rx="8" fill="#1A2A40"/>
+    <circle cx="400" cy="250" r="12" fill="#1A2A40"/>
+    <circle cx="440" cy="80" r="10" fill="#1A2A40"/>
+  </g>
+  <!-- Recycling plant -->
+  <g>
+    <rect x="120" y="120" width="240" height="120" rx="18" fill="#3A4A59" stroke="#2E3A4F" stroke-width="3"/>
+    <rect x="140" y="140" width="200" height="80" rx="12" fill="#F6F8F7" stroke="#B0B8C1" stroke-width="2"/>
+    <!-- Furnace -->
+    <ellipse cx="240" cy="200" rx="40" ry="24" fill="#D4AF37" stroke="#B89B2B" stroke-width="2"/>
+    <rect x="200" y="180" width="80" height="40" rx="8" fill="#7A8A99" stroke="#B0B8C1" stroke-width="2"/>
+    <!-- Conveyor belt -->
+    <rect x="120" y="240" width="240" height="18" rx="8" fill="#7A8A99"/>
+    <rect x="130" y="245" width="220" height="8" rx="4" fill="#B0B8C1"/>
+    <!-- Metal pieces -->
+    <rect x="170" y="250" width="12" height="6" rx="2" fill="#3A4A59"/>
+    <rect x="200" y="250" width="10" height="6" rx="2" fill="#D4AF37"/>
+    <rect x="230" y="250" width="14" height="6" rx="2" fill="#3A4A59"/>
+    <rect x="270" y="250" width="10" height="6" rx="2" fill="#D4AF37"/>
+    <rect x="310" y="250" width="12" height="6" rx="2" fill="#3A4A59"/>
+  </g>
+  <!-- Eco-symbols -->
+  <g>
+    <!-- Recycling icon -->
+    <g transform="translate(60,60) scale(1.2)">
+      <path d="M12 2L15 8H9L12 2Z" fill="#1B4D3E"/>
+      <path d="M2 12L8 15V9L2 12Z" fill="#1B4D3E"/>
+      <path d="M22 12L16 15V9L22 12Z" fill="#1B4D3E"/>
+    </g>
+    <!-- Leaf -->
+    <ellipse cx="440" cy="80" rx="8" ry="18" fill="#1B4D3E"/>
+  </g>
+  <!-- Soft shadow -->
+  <ellipse cx="240" cy="270" rx="120" ry="18" fill="#B0B8C1" opacity="0.18"/>
+</svg> 

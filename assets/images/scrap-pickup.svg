@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="360" fill="#F6F8F7"/>
+  <!-- Background factory silhouettes -->
+  <g opacity="0.15">
+    <rect x="30" y="220" width="120" height="60" rx="8" fill="#1A2A40"/>
+    <rect x="70" y="200" width="40" height="40" rx="6" fill="#1A2A40"/>
+    <rect x="110" y="210" width="20" height="30" rx="4" fill="#1A2A40"/>
+    <circle cx="60" cy="250" r="8" fill="#1A2A40"/>
+    <rect x="350" y="230" width="80" height="40" rx="8" fill="#1A2A40"/>
+    <rect x="370" y="210" width="30" height="30" rx="6" fill="#1A2A40"/>
+  </g>
+  <!-- Scrap truck -->
+  <g>
+    <rect x="90" y="180" width="220" height="60" rx="12" fill="#1A2A40" stroke="#2E3A4F" stroke-width="3"/>
+    <rect x="120" y="160" width="60" height="40" rx="8" fill="#D4AF37" stroke="#B89B2B" stroke-width="2"/>
+    <rect x="200" y="190" width="80" height="30" rx="6" fill="#3A4A59" stroke="#2E3A4F" stroke-width="2"/>
+    <ellipse cx="130" cy="240" rx="18" ry="18" fill="#3A4A59" stroke="#2E3A4F" stroke-width="3"/>
+    <ellipse cx="270" cy="240" rx="18" ry="18" fill="#3A4A59" stroke="#2E3A4F" stroke-width="3"/>
+    <ellipse cx="130" cy="240" rx="8" ry="8" fill="#F6F8F7"/>
+    <ellipse cx="270" cy="240" rx="8" ry="8" fill="#F6F8F7"/>
+    <!-- Scrap metal in truck -->
+    <rect x="210" y="170" width="20" height="18" rx="3" fill="#7A8A99"/>
+    <rect x="235" y="175" width="12" height="14" rx="2" fill="#B0B8C1"/>
+    <rect x="220" y="165" width="10" height="10" rx="2" fill="#7A8A99"/>
+    <rect x="250" y="172" width="8" height="12" rx="2" fill="#B0B8C1"/>
+    <rect x="260" y="168" width="6" height="10" rx="2" fill="#7A8A99"/>
+  </g>
+  <!-- Trees and eco-symbols -->
+  <g>
+    <ellipse cx="60" cy="270" rx="12" ry="24" fill="#1B4D3E"/>
+    <ellipse cx="420" cy="270" rx="14" ry="28" fill="#1B4D3E"/>
+    <!-- Recycling icon -->
+    <g transform="translate(400,60) scale(1.2)">
+      <path d="M12 2L15 8H9L12 2Z" fill="#1B4D3E"/>
+      <path d="M2 12L8 15V9L2 12Z" fill="#1B4D3E"/>
+      <path d="M22 12L16 15V9L22 12Z" fill="#1B4D3E"/>
+    </g>
+    <!-- Leaf -->
+    <ellipse cx="440" cy="80" rx="8" ry="18" fill="#1B4D3E"/>
+  </g>
+  <!-- Soft shadow -->
+  <ellipse cx="200" cy="260" rx="120" ry="18" fill="#B0B8C1" opacity="0.18"/>
+</svg> 
