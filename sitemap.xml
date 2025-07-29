@@ -1,19 +1,8 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://krusco.pk/</loc>
-    <lastmod>2025-07-27</lastmod>
-    <priority>1.00</priority>
+    <priority>1.0</priority>
   </url>
 </urlset>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://krusco.pk/</loc>
-    <lastmod>2025-07-27</lastmod>
-    <priority>1.00</priority>
-  </url>
-</urlset>
->>>>>>> 6f6dfaa832c57ce4ed53bbbf128ae40239d88ff7
